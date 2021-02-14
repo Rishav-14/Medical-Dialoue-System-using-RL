@@ -49,3 +49,7 @@ Label 9
 Diseases: 10
 Symptoms: 73
 Model Score: 0.87
+
+out4.p files of each label has the top 80% symptoms remaining after implementing feature selection
+out5.p files has the list of symptoms common to a set of diseases
+
