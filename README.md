@@ -1,11 +1,4 @@
-# Medical-Dialoue-System-using-RL
-
-Problem Statement- Identifying disease with information received through patient's self report and during dialogue conversation 
-
-Intuition- A task-oriented dialogue system framework based on reinforcement learning to make the diagnosis for patients automatically, which can converse with patients to collect additional symptoms in addition to their self-reports.
-
-
-Feature Selection
+# Data
 _______________________________________________________________________________
 
 Dataset-
